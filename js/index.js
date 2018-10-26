@@ -41,7 +41,10 @@ var secondPart = [
     'E-mail template',
     'Email-to-Case',
     'Custom Action',
-    'Ribbon'
+    'Ribbon',
+    'Crawler',
+    'Credentials',
+    'Backlog'
 ];
 
 var preFirstPart = [
@@ -55,8 +58,11 @@ var preFirstPart = [
     'Retro',
     'Automated',
     'Background',
-	'Pre-created',
-	'Post-updated'
+    'Pre-created',
+    'Post-updated',
+    'Unique',
+    'Tolai',
+    'Blocked'
 ];
 
 $(document).ready(function() {
