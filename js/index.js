@@ -21,7 +21,11 @@ var firstPart = [
     'Creation',
     'Editable',
     'Angular',
-    'React'
+    'React',
+    'Active',
+    'Inactive',
+    'Header,
+    'Bottom'
 ];
 
 var secondPart = [
@@ -44,7 +48,12 @@ var secondPart = [
     'Ribbon',
     'Crawler',
     'Credentials',
-    'Backlog'
+    'Backlog',
+    'Clone',
+    'Bonus',
+    'Traces',
+    'Release',
+    'Pipeline'
 ];
 
 var preFirstPart = [
@@ -61,8 +70,10 @@ var preFirstPart = [
     'Pre-created',
     'Post-updated',
     'Unique',
-    'Tolai',
-    'Blocked'
+    'Blocked',
+    'Super',
+    'Basic',
+    'Professional'
 ];
 
 $(document).ready(function() {
