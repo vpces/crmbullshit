@@ -24,7 +24,7 @@ var firstPart = [
     'React',
     'Active',
     'Inactive',
-    'Header,
+    'Header',
     'Bottom'
 ];
 
