@@ -53,7 +53,10 @@ var secondPart = [
     'Bonus',
     'Traces',
     'Release',
-    'Pipeline'
+    'Pipeline',
+    'Automated Production',
+    'Publisher',
+    'Cluster'
 ];
 
 var preFirstPart = [
@@ -73,7 +76,8 @@ var preFirstPart = [
     'Blocked',
     'Super',
     'Basic',
-    'Professional'
+    'Professional',
+    'Discovery'
 ];
 
 $(document).ready(function() {
