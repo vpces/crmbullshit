@@ -25,7 +25,10 @@ var firstPart = [
     'Active',
     'Inactive',
     'Header',
-    'Bottom'
+    'Bottom',
+    'Non-Breaking',
+    'Enabled',
+    'Handover'
 ];
 
 var secondPart = [
@@ -56,7 +59,10 @@ var secondPart = [
     'Pipeline',
     'Automated Production',
     'Publisher',
-    'Cluster'
+    'Cluster',
+    'Downtime',
+    'Handover,
+    'Cutover'
 ];
 
 var preFirstPart = [
