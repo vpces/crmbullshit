@@ -27,8 +27,7 @@ var firstPart = [
     'Header',
     'Bottom',
     'Non-Breaking',
-    'Enabled',
-    'Handover'
+    'Enabled'
 ];
 
 var secondPart = [
@@ -61,7 +60,7 @@ var secondPart = [
     'Publisher',
     'Cluster',
     'Downtime',
-    'Handover,
+    'Handover',
     'Cutover'
 ];
 
